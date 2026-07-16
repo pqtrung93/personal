@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pham Quang Trung
+# Hi there 👋 I'm PQTrung
 
 > Full Stack Developer • AI Engineer • DevOps • Blockchain • Automation
 
